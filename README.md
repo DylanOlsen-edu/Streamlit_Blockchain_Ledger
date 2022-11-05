@@ -18,5 +18,7 @@
 5. Test the blockchain validation process by pressing the "Validate Chain" button.
 
 ## Image(s) of Application
-<img width="802" alt="Screenshot 2022-11-04 at 8 55 28 PM" src="https://user-images.githubusercontent.com/104539357/200096302-86c783c8-9297-4e4e-acd3-ee0334021d4c.png">
 <img width="1427" alt="Screenshot 2022-11-04 at 8 54 41 PM" src="https://user-images.githubusercontent.com/104539357/200096305-a18ad09c-9264-43b0-9755-77cbc2a10d79.png">
+
+<img width="802" alt="Screenshot 2022-11-04 at 8 55 28 PM" src="https://user-images.githubusercontent.com/104539357/200096302-86c783c8-9297-4e4e-acd3-ee0334021d4c.png">
+
